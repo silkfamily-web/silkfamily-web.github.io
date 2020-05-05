@@ -56,7 +56,7 @@ redirect_from:
   }
 
   #chenxin{
-    background: url(../images/people/chen.jpg);
+    background: url(../images/people/chen.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -97,7 +97,7 @@ redirect_from:
     <div class="member_item col">
       <div class="member_pic_wrapper">
         <div class="member_pic" id="yaojinrong"></div>
-        <div class="member_name">Yao Jingrong 姚晋荣 </div>
+        <div class="member_name">Yao Jinrong 姚晋荣 </div>
         <div class="member_pos">Assistant Professor 副教授 </div>
         <div class="member_intro">抗菌高分子材料的设计与合成</div>
       </div>
