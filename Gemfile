@@ -1,4 +1,7 @@
-source "https://rubygems.org"
+# source "https://rubygems.org"
+source 'https://gems.ruby-china.com'
+require 'tzinfo'
+
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -24,4 +27,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 end
