@@ -204,8 +204,8 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="whj"></div>
       <div class="member_name" >Wen Huijuan 温慧娟</div>
-      <div class="member_intro" >多肽自组装<br>2013～2017 苏州大学 BA</div>2014</div>
-    </div>
+      <div class="member_intro" >多肽自组装<br>2013～2017 苏州大学 BA</div>
+   </div>
   </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
