@@ -314,7 +314,7 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="lyz"></div>
       <div class="member_name" >Liu Yizhuo 柳宜卓</div>
-      <div class="member_intro" >聚合物离子液体凝胶</div>
+      <div class="member_intro" >聚合物离子液体凝胶<br>2014～2018 同济大学 BA</div>
     </div>
   </div>
 
@@ -322,49 +322,49 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="yz"></div>
       <div class="member_name" >Yan Zhuo 闫卓</div>
-      <div class="member_intro" >丝蛋白基骨修复材料</div>
+      <div class="member_intro" >丝蛋白基骨修复材料<br>2014～2018 同济大学 BA</div>
     </div>
   </div>
   <div class="member_item">
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="zbh"></div>
       <div class="member_name" >Zhao Bohua 赵博华</div>
-      <div class="member_intro">丝蛋白基可穿戴器件</div>
+      <div class="member_intro">丝蛋白基可穿戴器件<br>2014～2018 复旦大学 BA</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="cqy"></div>
       <div class="member_name" >Chen Qianying 陈倩莹</div>
-      <div class="member_intro" >天然高分子基胶黏剂</div>
+      <div class="member_intro" >天然高分子基胶黏剂<br>2015～2019 复旦大学 BA</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="dgh"></div>
       <div class="member_name">Da Gaohuan 达高欢</div>
-      <div class="member_intro" >丝蛋白基固体材料</div>
+      <div class="member_intro" >丝蛋白基固体材料<br>2015～2019 陕西师范大学 BA</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="lmq"></div>
       <div class="member_name">Lu Mingqi 陆旻琪</div>
-      <div class="member_intro" >丝蛋白基微球</div>
+      <div class="member_intro" >丝蛋白基微球<br>2015～2019 同济大学 BA</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="xjy"></div>
       <div class="member_name" >Xie Jinyu 谢金雨</div>
-      <div class="member_intro">抗菌高分子的设计</div>
+      <div class="member_intro">抗菌高分子的设计<br>2015～2019 同济大学 BA</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="yxy"></div>
       <div class="member_name">Yin Xueyang 殷雪旸</div>
-      <div class="member_intro" >聚合物离子液体凝胶</div>
+      <div class="member_intro" >聚合物离子液体凝胶<br>2015～2019 华东师范大学 BA</div>
     </div>
   </div>
  </div>
