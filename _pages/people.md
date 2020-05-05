@@ -197,56 +197,56 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="zy"></div>
       <div class="member_name" >Zhao Yan 赵岩</div>
-      <div class="member_intro" >抗菌高分子<br>2014～2017 MA 中科院长春应化所</div>
+      <div class="member_intro" >抗菌高分子<br>2014～2017 中科院长春应化所 MA</div>
     </div>
   </div>
    <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="whj"></div>
       <div class="member_name" >Wen Huijuan 温慧娟</div>
-      <div class="member_intro" >多肽自组装<br>2014～2018 BA 苏州大学</div>2014</div>
+      <div class="member_intro" >多肽自组装<br>2013～2017 苏州大学 BA</div>2014</div>
     </div>
   </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="mbl"></div>
       <div class="member_name" >Miao Bianliang 苗变梁</div>
-      <div class="member_intro" >丝蛋白膜、仿生矿化</div>
+      <div class="member_intro" >丝蛋白膜、仿生矿化<br>2014～2018 陕西师范大学 BA</div>
     </div>
   </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="cn"></div>
       <div class="member_name" >Chen Ni 陈旎</div>
-      <div class="member_intro">丝蛋白基3D打印材料</div>
+      <div class="member_intro">丝蛋白基3D打印材料<br>2014～2018 青岛科技大学 BA</div>
     </div>
   </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="cl"></div>
       <div class="member_name" >Chen Leng 陈棱</div>
-      <div class="member_intro">丝蛋白高强度凝胶、甲壳素晶须</div>
+      <div class="member_intro">丝蛋白高强度凝胶、甲壳素晶须<br>2014～2018 四川大学 BA</div>
   </div>
 </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="ygw"></div>
       <div class="member_name" >Yang Gongwen 杨公雯</div>
-      <div class="member_intro">丝蛋白化学改性</div>
+      <div class="member_intro">丝蛋白化学改性<br>2016～2019 合肥工业大学 MA</div>
   </div>
 </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="hzy"></div>
       <div class="member_name" >Han Zhengyi 韩正意</div>
-      <div class="member_intro">丝蛋白湿法纺丝及功能化</div>
+      <div class="member_intro">丝蛋白湿法纺丝及功能化<br>2015～2019 哈尔滨工程大学 BA</div>
   </div>
 </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="gk"></div>
       <div class="member_name" >Gu Kai 顾恺</div>
-      <div class="member_intro">丝蛋白固体材料</div>
+      <div class="member_intro">丝蛋白固体材料<br>2015～2019 复旦大学 BA</div>
    </div>
     </div>
   </div>
