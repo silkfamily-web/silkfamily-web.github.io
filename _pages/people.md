@@ -142,26 +142,50 @@ redirect_from:
     -webkit-line:2;
     -webkit-box-orient:vertical;
   }
-  #liwenhao{
-    background: url(../images/people/students/liwenhao.png);
+  #whj{
+    background: url(../images/people/students/whj.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
   }
-  #shengjunjie{
-    background: url(../images/people/students/shengjunjie.jpg);
+  #cn{
+    background: url(../images/people/students/cn.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
   }
-  #huayun{
-    background: url(../images/people/students/huayun.jpg);
+  #mbl{
+    background: url(../images/people/students/mbl.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
   }
-  #shenchuyun{
-    background: url(../images/people/students/shenchuyun.jpg);
+  #cl{
+    background: url(../images/people/students/cl.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #gk{
+    background: url(../images/people/students/gk.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #hzy{
+    background: url(../images/people/students/hzy.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #ygw{
+    background: url(../images/people/students/ygw.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+    #zy{
+    background: url(../images/people/students/zy.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -171,35 +195,59 @@ redirect_from:
 <div class="students">
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
-      <div class="member_pic" id="liwenhao"></div>
-      <div class="member_name" ><a href="https://www.zhihu.com/people/lee-40-50-50/posts">LI Wenhao 李文浩 </a></div>
-      <div class="member_intro" >多智能体强化学习，去中心化，路径规划，医疗图像处理</div>
+      <div class="member_pic" id="zy"></div>
+      <div class="member_name" >Zhao Yan 赵炎 </a></div>
+      <div class="member_intro" >抗菌高分子</div>
     </div>
   </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
-      <div class="member_pic" id="shengjunjie"></div>
-      <div class="member_name" ><a href="https://www.yuque.com/jarvis-awajg">SHENG Junjie 盛俊杰 </a></div>
-      <div class="member_intro" >多智能体强化学习，通信学习，攻击和鲁棒学习</div>
+      <div class="member_pic" id="whj"></div>
+      <div class="member_name" >Wen Huijuan 温慧娟 </a></div>
+      <div class="member_intro" >多肽自组装</div>
     </div>
   </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
-      <div class="member_pic" id="huayun"></div>
-      <div class="member_name" ><a href="https://www.zhihu.com/people/yun-hua-38">HUA Yun 华贇 </a></div>
-      <div class="member_intro" >多智能体强化学习，元强化学习，智能交通</div>
+      <div class="member_pic" id="mbl"></div>
+      <div class="member_name" >Miao Bianliang 苗变梁</a></div>
+      <div class="member_intro" >丝蛋白膜、仿生矿化</div>
     </div>
   </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
-      <div class="member_pic" id="shenchuyun"></div>
-      <div class="member_name" ><a href="https://chuyun-shen.github.io/">SHEN Chuyun 沈楚云 </a></div>
-      <div class="member_intro">公平、因果推断、多智能体强化学习</div>
+      <div class="member_pic" id="cn"></div>
+      <div class="member_name" >Chen Ni 陈旎 </a></div>
+      <div class="member_intro">丝蛋白基3D打印材料</div>
     </div>
   </div>
-
+  <div class="member_item col_quarter" >
+    <div class="member_pic_wrapper" >
+      <div class="member_pic" id="cl"></div>
+      <div class="member_name" >Chen Leng 陈棱 </a></div>
+      <div class="member_intro">丝蛋白高强度凝胶、甲壳素晶须</div>
 </div>
-
+</div>
+  <div class="member_item col_quarter" >
+    <div class="member_pic_wrapper" >
+      <div class="member_pic" id="ygw"></div>
+      <div class="member_name" >Yang Gongwen 杨公雯</a></div>
+      <div class="member_intro">丝蛋白化学改性</div>
+</div>
+</div>
+  <div class="member_item col_quarter" >
+    <div class="member_pic_wrapper" >
+      <div class="member_pic" id="hzy"></div>
+      <div class="member_name" >Han Zhengyi 韩正意 </a></div>
+      <div class="member_intro">丝蛋白湿法纺丝及功能化</div>
+</div>
+</div>
+  <div class="member_item col_quarter" >
+    <div class="member_pic_wrapper" >
+      <div class="member_pic" id="gk"></div>
+      <div class="member_name" >Gu Kai 顾恺 </a></div>
+      <div class="member_intro">丝蛋白固体材料</div>
+</div>
 ---
 ---
 
