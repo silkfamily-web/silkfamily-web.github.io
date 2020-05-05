@@ -197,14 +197,14 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="zy"></div>
       <div class="member_name" >Zhao Yan 赵岩</div>
-      <div class="member_intro" >抗菌高分子</div>
+      <div class="member_intro" >抗菌高分子<br>2014～2017 MA 中科院长春应化所</div>
     </div>
   </div>
    <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="whj"></div>
       <div class="member_name" >Wen Huijuan 温慧娟</div>
-      <div class="member_intro" >多肽自组装</div>
+      <div class="member_intro" >多肽自组装<br>2014～2018 BA 苏州大学</div>2014</div>
     </div>
   </div>
   <div class="member_item col_quarter" >
