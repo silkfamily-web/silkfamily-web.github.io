@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "SILKFAMILY"
 title_separator          : "-"
 name                     : &name "SILKFAMILY"
-description              : &description "Macromolecules Laboratory"
+description              : &description "Biomacromolecules Laboratory"
 url                      : https://silkfamily-web.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "silkfamily-web.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Macromolecules Laboratory"
+  name             : "Biomacromolecules Laboratory"
   avatar           : "silkbaby.jpeg"
   bio              : "Fudan University"
   location         : "Shanghai, China"
