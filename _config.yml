@@ -8,14 +8,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MAIL-ECNU"
+title                    : "Silkfamily"
 title_separator          : "-"
-name                     : &name "MAIL-ECNU"
-description              : &description "Multi-Agent Artificial Intelligence Laboratory"
-url                      : https://mail-ecnu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Silkfamily"
+description              : &description "Biomacromolecules Laboratory"
+url                      : https://silkfamily.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mail-ecnu/mail-ecnu.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "silkfamily-web/silkfamily-web.github.io"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "silkbaby.jpeg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Multi-Agent Artificial Intelligence Laboratory"
-  avatar           : "console_mail.jpg"
-  bio              : "East China Normal University"
+  name             : "Macromolecules Laboratory"
+  avatar           : "silkbaby.jpeg"
+  bio              : "Fudan University"
   location         : "Shanghai, China"
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mail-ecnu"
+  github           : "silkfamily-web"
   google_plus      :
   keybase          :
   instagram        :
