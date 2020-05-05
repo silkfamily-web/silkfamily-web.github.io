@@ -196,7 +196,7 @@ redirect_from:
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="zy"></div>
-      <div class="member_name" >Zhao Yan 赵炎</div>
+      <div class="member_name" >Zhao Yan 赵岩</div>
       <div class="member_intro" >抗菌高分子</div>
     </div>
   </div>
