@@ -196,57 +196,60 @@ redirect_from:
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="zy"></div>
-      <div class="member_name" >Zhao Yan 赵炎 </a></div>
+      <div class="member_name" >Zhao Yan 赵炎</div>
       <div class="member_intro" >抗菌高分子</div>
     </div>
   </div>
-  <div class="member_item col_quarter" >
+   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="whj"></div>
-      <div class="member_name" >Wen Huijuan 温慧娟 </a></div>
+      <div class="member_name" >Wen Huijuan 温慧娟</div>
       <div class="member_intro" >多肽自组装</div>
     </div>
   </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="mbl"></div>
-      <div class="member_name" >Miao Bianliang 苗变梁</a></div>
+      <div class="member_name" >Miao Bianliang 苗变梁</div>
       <div class="member_intro" >丝蛋白膜、仿生矿化</div>
     </div>
   </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="cn"></div>
-      <div class="member_name" >Chen Ni 陈旎 </a></div>
+      <div class="member_name" >Chen Ni 陈旎</div>
       <div class="member_intro">丝蛋白基3D打印材料</div>
     </div>
   </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="cl"></div>
-      <div class="member_name" >Chen Leng 陈棱 </a></div>
+      <div class="member_name" >Chen Leng 陈棱</div>
       <div class="member_intro">丝蛋白高强度凝胶、甲壳素晶须</div>
-</div>
+  </div>
 </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="ygw"></div>
-      <div class="member_name" >Yang Gongwen 杨公雯</a></div>
+      <div class="member_name" >Yang Gongwen 杨公雯</div>
       <div class="member_intro">丝蛋白化学改性</div>
-</div>
+  </div>
 </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="hzy"></div>
-      <div class="member_name" >Han Zhengyi 韩正意 </a></div>
+      <div class="member_name" >Han Zhengyi 韩正意</div>
       <div class="member_intro">丝蛋白湿法纺丝及功能化</div>
-</div>
+  </div>
 </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="gk"></div>
-      <div class="member_name" >Gu Kai 顾恺 </a></div>
+      <div class="member_name" >Gu Kai 顾恺</div>
       <div class="member_intro">丝蛋白固体材料</div>
+   </div>
+    </div>
+  </div>
 </div>
 ---
 ---
