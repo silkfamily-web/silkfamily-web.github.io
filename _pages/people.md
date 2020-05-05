@@ -108,7 +108,7 @@ redirect_from:
 ---
 ---
 
-# Phd Students
+# Phd Candidates
 
 <style type="text/css">
   .students .member_item{
@@ -254,131 +254,53 @@ redirect_from:
 ---
 ---
 
-# Master Students
+# Master Candidates
 
 <style>
-  #caijinhui{
-    background: url(../images/people/students/caijinhui.jpg);
+  #lyz{
+    background: url(../images/people/students/lyz.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
   }
-  #wangjunjie{
-    background: url(../images/people/students/wangjunjie.png);
+  #yz{
+    background: url(../images/people/students/yz.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
   }
-  #huyiqiu{
-    background: url(../images/people/students/huyiqiu.jpg);
+  #zbh{
+    background: url(../images/people/students/zbh.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
   }
-  #xiangwangtao{
-    background: url(../images/people/students/xiangwangtao.jpg);
+  #cqy{
+    background: url(../images/people/students/cqy.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
   }
-  #wuqian{
-    background: url(../images/people/students/wuqian.png);
+  #dgh{
+    background: url(../images/people/students/dgh.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
   }
-  #zhangzhikai{
-    background: url(../images/people/students/zhangzhikai.jpg);
+  #lmq{
+    background: url(../images/people/students/lmq.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
   }
-  #xuqisen{
-    background: url(../images/people/students/xuqisen.png);
+  #xjy{
+    background: url(../images/people/students/xjy.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
   }
-  #chengweiwen{
-    background: url(../images/people/students/chengweiwen.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-  #chenhongjun{
-    background: url(../images/people/students/chenhongjun.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-  #chengjunyi{
-    background: url(../images/people/students/chengjunyi.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-  #wangwei{
-    background: url(../images/people/students/wangwei.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-   #liziqian{
-    background: url(../images/people/students/liziqian.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-  #wangsuo{
-    background: url(../images/people/students/wangsuo.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-  #jiayoutao{
-    background: url(../images/people/students/jiayoutao.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-  #dengyang{
-    background: url(../images/people/students/dengyang.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-  #linjia{
-    background: url(../images/people/students/lingjia.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-  #wutingyu{
-    background: url(../images/people/students/wutingyu.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-  #liuyunhao{
-    background: url(../images/people/students/liuyunhao.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-  #caishengliang{
-    background: url(../images/people/students/caishengliang.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-  #yangmoyi{
-    background: url(../images/people/students/yangmoyi.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-  #gaoshang{
-    background: url(../images/people/students/gaoshang.png);
+  #yxy{
+    background: url(../images/people/students/yxy.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -390,218 +312,64 @@ redirect_from:
 <div class="students">
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_pic" id="caijinhui"></div>
-      <div class="member_name" >CAI Jinghui 蔡璟辉</div>
-      <div class="member_intro" >对抗样本，黑盒攻击</div>
+      <div class="member_pic" id="lyz"></div>
+      <div class="member_name" >Liu Yizhuo 柳宜卓</div>
+      <div class="member_intro" >聚合物离子液体凝胶</div>
     </div>
   </div>
 
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_pic" id="wangjunjie"></div>
-      <div class="member_name" >WANG Junjie 王俊杰</div>
-      <div class="member_intro" >零样本学习 小样本学习 图神经网络</div>
+      <div class="member_pic" id="yz"></div>
+      <div class="member_name" >Yan Zhuo 闫卓</div>
+      <div class="member_intro" >丝蛋白基骨修复材料</div>
     </div>
   </div>
   <div class="member_item">
     <div class="member_pic_wrapper" >
-      <div class="member_pic" id="huyiqiu"></div>
-      <div class="member_name" ><a href="https://www.zhihu.com/people/46b1617a700a162f890500da919f31eb">HU Yiqiu 胡亦秋</a></div>
-      <div class="member_intro">强化学习（解组合优化）、联邦学习</div>
+      <div class="member_pic" id="zbh"></div>
+      <div class="member_name" >Zhao Bohua 赵博华</div>
+      <div class="member_intro">丝蛋白基可穿戴器件</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_pic" id="xiangwangtao"></div>
-      <div class="member_name" >XIANG Wangtao 向王涛</div>
-      <div class="member_intro" >深度学习图像、图像生成embedding</div>
+      <div class="member_pic" id="cqy"></div>
+      <div class="member_name" >Chen Qianying 陈倩莹</div>
+      <div class="member_intro" >天然高分子基胶黏剂</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_pic" id="wuqian"></div>
-      <div class="member_name"><a href="https://www.jianshu.com/u/4296af232d02">WU Qian 吴倩</a></div>
-      <div class="member_intro" >计算机视觉，生成模型，图神经网络，元学习</div>
+      <div class="member_pic" id="dgh"></div>
+      <div class="member_name">Da Gaohuan 达高欢</div>
+      <div class="member_intro" >丝蛋白基固体材料</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_pic" id="zhangzhikai"></div>
-      <div class="member_name">ZHANG Zhikai 张致恺</div>
-      <div class="member_intro" >目标检测，姿态估计</div>
+      <div class="member_pic" id="lmq"></div>
+      <div class="member_name">Lu Mingqi 陆旻琪</div>
+      <div class="member_intro" >丝蛋白基微球</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_pic" id="xuqisen"></div>
-      <div class="member_name" >XU Qisen 徐琪森</div>
-      <div class="member_intro">强化学习以及强化学习与计算机视觉交叉领域研究</div>
+      <div class="member_pic" id="xjy"></div>
+      <div class="member_name" >Xie Jinyu 谢金雨</div>
+      <div class="member_intro">抗菌高分子的设计</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_pic" id="chengweiwen"></div>
-      <div class="member_name"><a href="https://cww97.cn/">CHEN Weiwen 陈伟文</a></div>
-      <div class="member_intro" >ICPC Silver, interest: Multi-Modal, cv, robotic</div>
+      <div class="member_pic" id="yxy"></div>
+      <div class="member_name">Yin Xueyang 殷雪旸</div>
+      <div class="member_intro" >聚合物离子液体凝胶</div>
     </div>
   </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="chenhongjun"></div>
-      <div class="member_name">CHEN Hongjun 陈宏俊</div>
-      <div class="member_intro" >多智体强化学习、路径规划</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="chengjunyi"></div>
-      <div class="member_name">CHENG Junyi 程君翊</div>
-      <div class="member_intro" >meta learning，神经架构搜索</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="wangwei"></div>
-      <div class="member_name"><a href="https://wdevin.github.io">WANG Wei 王伟</a></div>
-      <div class="member_intro" >多智能体强化学习、自然语言处理、知识图谱</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="liziqian"></div>
-      <div class="member_name">LI Zhiqian 李志谦</div>
-      <div class="member_intro" >计算机视觉，医疗图像处理</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="wangsuo"></div>
-      <div class="member_name">WANG Shuo 王硕</div>
-      <div class="member_intro" >机器学习</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="jiayoutao"></div>
-      <div class="member_name">JIA Youtao 郏友涛</div>
-      <div class="member_intro" >机器学习，计算机视觉</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="dengyang"></div>
-      <div class="member_name"><a href="https://github.com/consolexinhun">DENG Yang 邓样</a></div>
-      <div class="member_intro" >机器学习， 计算机视觉</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="linjia"></div>
-      <div class="member_name">LIN Jia 林佳</div>
-      <div class="member_intro" >多智能体强化学习，联邦学习</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="wutingyu"></div>
-      <div class="member_name">WU Tingyu 吴婷钰</div>
-      <div class="member_intro" >多智能体强化学习，启发式算法</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="liuyunhao"></div>
-      <div class="member_name">LIU Yunhao 刘云浩</div>
-      <div class="member_intro" >机器学习</div>
-    </div>
-  </div>
-    <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="gaoshang"></div>
-      <div class="member_name" ><a href="https://github.com/Felix2048">GAO Shang 高尚</a></div>
-      <div class="member_intro" >多模态</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="caishengliang"></div>
-      <div class="member_name"><a href="https://cubercsl.cn/">CAI Shengliang 蔡盛梁</a></div>
-      <div class="member_intro" >ICPC 2020 World Finalist</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="yangmoyi"></div>
-      <div class="member_name">YANG Moyi 杨默艺</div>
-      <div class="member_intro" >计算机专业中法联合培养项目</div>
-    </div>
-  </div>
-</div>
-
----
----
-
-# Undergraduate Students
-
-<style>
-
-</style>
-
-<div class="students">
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_name" >LIU Tianyang 刘天杨</div>
-      <div class="member_intro">渣打科营中心</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_name" >HUANG Dute 黄杜特</div>
-      <div class="member_intro">2020</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_name" >LI Xinyan 李欣妍</div>
-      <div class="member_intro" >本校直研</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_name" >CHEN Keyu 陈柯宇</div>
-      <div class="member_intro" >介绍</div>
-    </div>
-  </div>
-</div>
+ </div>
 
 ---
 ---
 
 # Alumni
-<div class="students">
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_name" >LI Xin 李鑫</div>
-      <div class="member_intro" >2020，小红书</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_name" >LI Heng 李衡</div>
-      <div class="member_intro" >2020, Face++</div>
-    </div>
-  </div>
-  <div class="member_item"  >
-    <div class="member_pic_wrapper" >
-      <div class="member_name">ZHANG Wenjie 张文杰</div>
-      <div class="member_intro" >2018, Tecent 腾讯</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_name" >ZHANG Juan 张娟</div>
-      <div class="member_intro">2019, 卡斯柯</div>
-    </div>
-  </div>
-
-</div>
