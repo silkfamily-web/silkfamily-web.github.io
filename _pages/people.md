@@ -48,21 +48,21 @@ redirect_from:
     width: 100%;
     height: 200px;
   }
-  #zhahongyuan{
-    background: url(../images/people/zhahongyuan.png);
+  #shaozhengzhong{
+    background: url(../images/people/shao.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
   }
 
-  #wangxiangfeng{
-    background: url(../images/people/wangxiangfeng.jpg);
+  #chenxin{
+    background: url(../images/people/chen.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
   }
-  #jinbo{
-    background: url(../images/people/jinbo.png);
+  #yaojinrong{
+    background: url(../images/people/yao.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -80,25 +80,26 @@ redirect_from:
   <div class="row">
     <div class="member_item col">
       <div class="member_pic_wrapper">
-        <div class="member_pic" id="zhahongyuan"></div>
-        <div class="member_name">ZHA Hongyuan 查宏远 </div>
+        <div class="member_pic" id="shaozhenzhong"></div>
+        <div class="member_name">Shao Zhengzhong 邵正中 </div>
         <div class="member_pos">Professor 教授 </div>
-        <div class="member_intro">Machine Learning</div>
+        <div class="member_intro">天然高分子及仿生材料的结构与性能关系
+动物丝和丝蛋白的结构、力学性能以及纺丝</div>
       </div>
     </div>
     <div class="member_item col">
       <div class="member_pic_wrapper">
-        <div class="member_pic" id="wangxiangfeng"></div>
-        <div class="member_name">WANG Xiangfeng 王祥丰 </div>
-        <div class="member_pos">Associate Professor 副教授 </div>
+        <div class="member_pic" id="chenxin"></div>
+        <div class="member_name">Chen Xin 陈新 </div>
+        <div class="member_pos">Professor 教授 </div>
         <div class="member_intro">Distributed optimization, MARL</div>
       </div>
     </div>
     <div class="member_item col">
       <div class="member_pic_wrapper">
-        <div class="member_pic" id="jinbo"></div>
-        <div class="member_name">JIN Bo 金博 </div>
-        <div class="member_pos">Assistant Professor 助理教授 </div>
+        <div class="member_pic" id="yaojinrong"></div>
+        <div class="member_name">Yao Jingrong 姚晋荣 </div>
+        <div class="member_pos">Assistant Professor 副教授 </div>
         <div class="member_intro">MARL</div>
       </div>
     </div>
