@@ -83,8 +83,7 @@ redirect_from:
         <div class="member_pic" id="shaozhenzhong"></div>
         <div class="member_name">Shao Zhengzhong 邵正中 </div>
         <div class="member_pos">Professor 教授 </div>
-        <div class="member_intro">天然高分子及仿生材料的结构与性能关系
-动物丝和丝蛋白的结构、力学性能以及纺丝</div>
+        <div class="member_intro">天然高分子及仿生材料的结构与性能关系</div>
       </div>
     </div>
     <div class="member_item col">
@@ -92,7 +91,7 @@ redirect_from:
         <div class="member_pic" id="chenxin"></div>
         <div class="member_name">Chen Xin 陈新 </div>
         <div class="member_pos">Professor 教授 </div>
-        <div class="member_intro">Distributed optimization, MARL</div>
+        <div class="member_intro">以天然高分子为基质的各类功能材料的设计、制备和应用‍</div>
       </div>
     </div>
     <div class="member_item col">
@@ -100,7 +99,7 @@ redirect_from:
         <div class="member_pic" id="yaojinrong"></div>
         <div class="member_name">Yao Jingrong 姚晋荣 </div>
         <div class="member_pos">Assistant Professor 副教授 </div>
-        <div class="member_intro">MARL</div>
+        <div class="member_intro">抗菌高分子材料的设计与合成</div>
       </div>
     </div>
   </div>
