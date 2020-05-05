@@ -91,7 +91,7 @@ redirect_from:
         <div class="member_pic" id="chenxin"></div>
         <div class="member_name">Chen Xin 陈新 </div>
         <div class="member_pos">Professor 教授 </div>
-        <div class="member_intro">以天然高分子为基质的各类功能材料的设计、制备和应用‍</div>
+        <div class="member_intro">天然高分子基功能材料的设计、制备和应用‍</div>
       </div>
     </div>
     <div class="member_item col">
