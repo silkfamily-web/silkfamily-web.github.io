@@ -80,7 +80,7 @@ redirect_from:
   <div class="row">
     <div class="member_item col">
       <div class="member_pic_wrapper">
-        <div class="member_pic" id="shaozhenzhong"></div>
+        <div class="member_pic" id="shaozhengzhong"></div>
         <div class="member_name">Shao Zhengzhong 邵正中 </div>
         <div class="member_pos">Professor 教授 </div>
         <div class="member_intro">天然高分子及仿生材料的结构与性能关系</div>
