@@ -20,8 +20,8 @@ redirect_from:
 </style>
 
 <div class="img-content">
-  <img src="images/console_ecnu.png" >
-  <img style="padding-left: 50px;" src="images/console_cs.png" >
+  <img src="images/console_fudan.png" >
+  <img style="padding-left: 50px;" src="images/console_polymer.png" >
 </div>
 
 <p>
